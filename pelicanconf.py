@@ -31,6 +31,7 @@ SCRIPTS = [
 	'cbpAnimatedHeader.js',
 	'jqBootstrapValidation.js',
 	'contact_me.js',
+        'simpleCartPopkornet.js',
 	'popkornet.js'
 ]
 # Feed generation is usually not desired when developing
@@ -60,7 +61,7 @@ CONTACT_FIELDS = (
 	['Telefonnummer', 'tel', 'phone', 'Please enter your phone number.'],
 	['Beskjed', 'textarea', 'message', 'Please enter a message.']
 )
-FORMSPREEURL = 'http://formspree.io/stian.lode+formspree@gmail.com'
+FORMSPREEURL = 'https://formspree.io/stian.lode+formspree@gmail.com'
 ADDRESS1 = 'Leirfenvegen 10'
 ADDRESS2 = '4355 Kvernaland'
 # Left column

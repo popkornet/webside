@@ -6,6 +6,7 @@ Snill gutt
 :image: snillgutt.jpg
 :client: Stig Dale
 :service: Biografi
+:price: 289
 
 *Snill gutt* er boka om Stig Hellerslien Dale.
 
