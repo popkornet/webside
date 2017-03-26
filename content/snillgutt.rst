@@ -6,10 +6,11 @@ Snill gutt
 :image: snillgutt.jpg
 :client: Stig Dale
 :service: Biografi
-:price: 289
+:price: 250
 
-*Snill gutt* er boka om Stig Hellerslien Dale.
+Suksessmegleren Stig H Dale er 42 år gammel da han får diagnosen Parkinson.
+SNILL GUTT er Stigs egen historie – en fortelling om suksesser og nederlag, om
+bitre oppgjør og blomstrende kjærlighet, om dyp fortvilelse, ukuelig vilje og
+ny, yr glede.
 
-På et tidspunkt Norges best eiendomsmegler, hotellsjef og propell, ble Stig en
-marsdag i 2014 diagnostisert med Parkinson. Snill gutt tar for seg den
-turbulente reisen før Parkinson og den etter.
+NB: For hver solgte bok går 25 kroner til Norges Parkinsonforbund.

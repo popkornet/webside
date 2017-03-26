@@ -30,7 +30,7 @@ SCRIPTS = [
 	'classie.js',
 	'cbpAnimatedHeader.js',
 	'jqBootstrapValidation.js',
-	'contact_me.js',
+        'simpleCartPopkornet.js',
 	'popkornet.js'
 ]
 # Feed generation is usually not desired when developing
@@ -40,14 +40,16 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-DIRECT_TEMPLATES = ['index']
+DIRECT_TEMPLATES = ['index', 'shop']
+PAGINATED_DIRECT_TEMPLATES = ['index', 'shop']
 
 # Top Menu Links
 NAVLINKS = (
 	('#page-top', ''),
 	('#portfolio', 'Bøker'),
 	('#about', 'Om'),
-	('#contact', 'Bokidé?')
+	('#contact', 'Bokidé?'),
+	('shop', 'Butikk')
 )
 
 # Portfolio Name
@@ -60,11 +62,9 @@ CONTACT_FIELDS = (
 	['Telefonnummer', 'tel', 'phone', 'Please enter your phone number.'],
 	['Beskjed', 'textarea', 'message', 'Please enter a message.']
 )
+
 FORMSPREEURL = 'https://formspree.io/gullstrek+popkornet@gmail.com'
-ADDRESS1 = 'Leirfenvegen 10'
-ADDRESS2 = '4355 Kvernaland'
-# Center
-ABOUT_CENTER = '<a href="https://www.facebook.com/vifortellerdinhistorie/?fref=ts" target="_blank" class="btn btn-lg btn-outline"><i class="fa fa-download"> Ta kontakt på facebook</i> </a>'
+FORMSPREEURL_SHOP = 'https://formspree.io/gullstrek+popkornet_shop@gmail.com'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
