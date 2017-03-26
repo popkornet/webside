@@ -24,13 +24,11 @@ BOOTSTRAP_FILE = 'bootstrap.css'
 CSS_FILE = 'popkornet.css'
 FONTS = 'fonts'
 SCRIPTS = [
-	'jquery-1.11.0.js',
 	'bootstrap.min.js',
 	'https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js',
 	'classie.js',
 	'cbpAnimatedHeader.js',
 	'jqBootstrapValidation.js',
-        'simpleCartPopkornet.js',
 	'popkornet.js'
 ]
 # Feed generation is usually not desired when developing
@@ -52,19 +50,8 @@ NAVLINKS = (
 	('shop', 'Butikk')
 )
 
-# Portfolio Name
-PORTFOLIO = 'Bøker'
-
-#Contact form fields sorted by: label, input_type, id, required_validation_,msg
-CONTACT_FIELDS = (
-	['Navn', 'text', 'name', 'Please enter your name.'],
-	['E-mailadresse', 'email', 'email','Please enter your email address.' ],
-	['Telefonnummer', 'tel', 'phone', 'Please enter your phone number.'],
-	['Beskjed', 'textarea', 'message', 'Please enter a message.']
-)
-
 FORMSPREEURL = 'https://formspree.io/gullstrek+popkornet@gmail.com'
-FORMSPREEURL_SHOP = 'https://formspree.io/gullstrek+popkornet_shop@gmail.com'
+FORMSPREEURL_SHOP = 'https://formspree.io/shdprivat+popkornet_shop@gmail.com'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
