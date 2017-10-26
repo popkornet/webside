@@ -6,7 +6,7 @@ Snill gutt
 :image: snillgutt.jpg
 :client: Stig Dale
 :service: Biografi
-:price: 250
+:price: 199
 
 Suksessmegleren Stig H Dale er 42 år gammel da han får diagnosen Parkinson.
 SNILL GUTT er Stigs egen historie – en fortelling om suksesser og nederlag, om

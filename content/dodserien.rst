@@ -5,7 +5,7 @@ Død-serien
 :date: 2001-04-01
 :image: dodserien.jpg
 :service: Skjønnlitteratur
-:price: 
+:price: 1499
 
 **“DØD-SERIEN"** består av seks krimbøker skrevet av Svein F Hestvaag og fulle av
 blod, død, reklame, bordhockey og humor. Serien har, siden første bok kom i

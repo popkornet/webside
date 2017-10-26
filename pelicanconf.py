@@ -51,7 +51,7 @@ NAVLINKS = (
 )
 
 FORMSPREEURL = 'https://formspree.io/gullstrek+popkornet@gmail.com'
-FORMSPREEURL_SHOP = 'https://formspree.io/shdprivat+popkornet_shop@gmail.com'
+FORMSPREEURL_SHOP = 'https://formspree.io/gullstrek+popkornet_shop@gmail.com'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
